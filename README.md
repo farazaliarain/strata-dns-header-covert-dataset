@@ -62,6 +62,3 @@ This gives the window counts in the table.
 
 Creative Commons Attribution 4.0 International (CC BY 4.0). You may use and share the data if you credit the authors by citing the article above.
 
-## Contact
-
-Faraz Ali, Department of Information and Computer Science, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia. E-mail: g202416820@kfupm.edu.sa
