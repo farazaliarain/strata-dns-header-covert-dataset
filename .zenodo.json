@@ -1,0 +1,12 @@
+{
+  "title": "STRATA-DNS header covert channel dataset",
+  "upload_type": "dataset",
+  "description": "Packet captures of eight DNS covert channel techniques that write into the DNS header and the question structure: opcode, response code in queries, query class, section counts, AA and TC flags, the Z, AD and CD bits, and the transaction identifier in plaintext and encrypted form. Each capture holds one technique, so the folder name is the label. 14 pcapng files, 633,182 packets, 310,624 queries.",
+  "creators": [
+    { "name": "Ali, Faraz", "affiliation": "King Fahd University of Petroleum and Minerals" },
+    { "name": "Niazi, Mahmood", "affiliation": "King Fahd University of Petroleum and Minerals" },
+    { "name": "Behzad, Muzammil", "affiliation": "King Fahd University of Petroleum and Minerals" }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["DNS", "covert channels", "network security", "intrusion detection", "dataset"]
+}
